@@ -12,7 +12,7 @@ When I pressed the Go button . Welcome hello world is written below the button.
 We know that Cross Site Scripting (XSS) is the type of security vulnerability in web applications where attackers inject malicious code 
 into a website, so let's try to inject java script code to see if the web site is secured from XSS attackes or not.
 
-![alt text]()
+![alt text](https://github.com/nody77/CTFs-Writeups/blob/653057a9c42d38c6e4d3ad864e6ffd6694d3feb1/Screenshot%202023-03-23%20115836.png)
 
 The code is 
 
@@ -22,7 +22,7 @@ The code is
 
 Then when I pressed the Go button again, the code did not work and a message appeared saying that we must enter data in both fields,
 
-![alt text](https://drive.google.com/file/d/1hwn2beQreJlm3Kbul92wdDJnTrWcf7PE/view?usp=sharing)
+![alt text]()
 
 so let's split the code in the two fields.
 I will write the beginnig script tag withe the alert code in the first name field and write the ending script tag in the last name field.
