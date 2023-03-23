@@ -27,11 +27,11 @@ Then when I pressed the Go button again, the code did not work and a message app
 so let's split the code in the two fields.
 I will write the beginnig script tag withe the alert code in the first name field and write the ending script tag in the last name field.
 
-![alt text]()
+![alt text](https://github.com/nody77/CTFs-Writeups/blob/91538af4c0427122979b14c38d1a985384a41865/Screenshot%202023-03-23%20115909.png)
 
 When pressing the Go button again we notice that the code we injected has worked and the alert message has appeared.
 
-![alt text](https://drive.google.com/file/d/1YWYd8x0MDoWg8aLgmbJLRLicLm6fXR3C/view?usp=sharing)
+![alt text]()
 
 
 
