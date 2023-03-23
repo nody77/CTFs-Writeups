@@ -22,12 +22,12 @@ The code is
 
 Then when I pressed the Go button again, the code did not work and a message appeared saying that we must enter data in both fields,
 
-![alt text]()
+![alt text](https://github.com/nody77/CTFs-Writeups/blob/ccb58ada2d55cf5deb2b661ea7d4dab2fd64dd73/Screenshot%202023-03-23%20115845.png)
 
 so let's split the code in the two fields.
 I will write the beginnig script tag withe the alert code in the first name field and write the ending script tag in the last name field.
 
-![alt text](https://drive.google.com/file/d/1s1SrQ6dexMla9esheICwELgD7ozZVla6/view?usp=sharing)
+![alt text]()
 
 When pressing the Go button again we notice that the code we injected has worked and the alert message has appeared.
 
