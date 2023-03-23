@@ -3,7 +3,7 @@
 When I first opened the challenge page it only contained two text boxes, one for the first name and the second for the last name.
 So I tried to write anything in the text boxes to see what is their function and their output.
 
-![alt text] (https://drive.google.com/file/d/1JekbJvTEUCxYZ5_aQl3zVJs2X0rLiNR-/view?usp=sharing/200/200)
+![alt text] (Screenshot 2023-03-23 115744.png)
 
 When I pressed the Go button . Welcome hello world is written below the button. 
 
