@@ -7,12 +7,12 @@ So I tried to write anything in the text boxes to see what is their function and
 
 When I pressed the Go button . Welcome hello world is written below the button. 
 
-![alt text](https://drive.google.com/file/d/1aZZxGlau2MXuV36yIKs9ucllHMVr4Fmq/view?usp=sharing)
+![alt text](https://github.com/nody77/CTFs-Writeups/blob/954b0170d90fb35b515dd4585addf9697a5adcda/Screenshot%202023-03-23%20115801.png)
 
 We know that Cross Site Scripting (XSS) is the type of security vulnerability in web applications where attackers inject malicious code 
 into a website, so let's try to inject java script code to see if the web site is secured from XSS attackes or not.
 
-![alt text](https://drive.google.com/file/d/1_WGM6leYu7fXwtb0IA5SekGcOyGAw2_b/view?usp=sharing)
+![alt text]()
 
 The code is 
 
