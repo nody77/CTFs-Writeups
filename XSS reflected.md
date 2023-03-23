@@ -31,7 +31,7 @@ I will write the beginnig script tag withe the alert code in the first name fiel
 
 When pressing the Go button again we notice that the code we injected has worked and the alert message has appeared.
 
-![alt text]()
+![alt text](https://github.com/nody77/CTFs-Writeups/blob/44f889a357c69c0d0e6367b3f24573bc28d84517/Screenshot%202023-03-23%20115919.png)
 
 
 
