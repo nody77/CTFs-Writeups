@@ -3,7 +3,7 @@
 When I first opened the challenge page it only contained two text boxes, one for the first name and the second for the last name.
 So I tried to write anything in the text boxes to see what is their function and their output.
 
-![alt text]([Screenshot 2023-03-23 115744.png](https://github.com/nody77/CTFs-Writeups/blob/d990837d8ed70229719eac6b5aec635f704e0640/Screenshot%202023-03-23%20115744.png))
+![alt text](https://github.com/nody77/CTFs-Writeups/blob/d990837d8ed70229719eac6b5aec635f704e0640/Screenshot%202023-03-23%20115744.png)
 
 When I pressed the Go button . Welcome hello world is written below the button. 
 
