@@ -33,7 +33,7 @@ Now we need to increase the number of the column until it gives us an error.
 ![alt text](https://github.com/nody77/CTFs-Writeups/blob/a32adfcedc955c7b06f0c9bc9f73cd1aa422e9f0/Screenshot%202023-03-25%20225829.png)
 
 So now the querey gave us an error at column number 8 which appears that it does not exist, therefore the table which we exploit the data from 
-contains 7 columns.And wait we see that not all cilumns appear int he web page so let's try to configure out which column is on screen and which is not.
+contains 7 columns.And wait we see that not all columns appear in the web page so let's try to configure out which column is on screen and which is not.
 by using the following code:
 
 ```SQL
