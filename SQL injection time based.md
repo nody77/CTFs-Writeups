@@ -7,7 +7,7 @@ the result will be sent by email (which we didn't provide and will not :) ).
 
 First let's try sereaching for a movie, for example iron man.
 
-![alt text](https://github.com/nody77/CTFs-Writeups/blob/2fca59d7978e968948de7d72539f2710c6e9e319/Screenshot%202023-03-24%20221953.png)
+![alt text]()
 
 ![alt text](https://github.com/nody77/CTFs-Writeups/blob/2fca59d7978e968948de7d72539f2710c6e9e319/Screenshot%202023-03-24%20223322.png)
 
