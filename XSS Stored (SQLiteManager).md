@@ -47,4 +47,4 @@ After that we can inject our payload in the name textbox .
 
 Then click save.
 
-![alt text](https://github.com/nody77/CTFs-Writeups/blob/ff8806afae91eaf4015ba2738a358a6280caa03f/Screenshot%202023-03-29%20193516.png)
+![alt text](https://github.com/nody77/CTFs-Writeups/blob/bdca32c37107186206dd43591eab7729ca1c6ed0/Screenshot%202023-03-29%20193516.png)
