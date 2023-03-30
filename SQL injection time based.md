@@ -19,7 +19,7 @@ x' or 1=(select sleep(2));#
 ```
 
 >The explanation of the code:
-we inserted a sql querey for sereaching `x`, if he did not find it,he will excute the second part which is makeing the web site sleep for 
+we inserted a sql querey for sereaching `x`, if he did not find it,he will excute the second part which is making the web site sleep for 
 two seconds and then respond again
 
 ![alt text](https://github.com/nody77/CTFs-Writeups/blob/bdad3a4254a72ada43f7709301e1686d2a870182/Screenshot%202023-03-24%20223615.png)
